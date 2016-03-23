@@ -1,0 +1,6 @@
+18X23 dw4 dn9 de4 g8,7 M3,4 p2,2 p3,3 p8,8 z6,6 W4,5
+8X13 de4 dw7 ds8 g8,7 M3,4 p2,2 z6,6 p3,3 p8,8 w4,5 e6,10
+18X23 dn5 de4 ds9 dw8 g8,7 M3,4 p2,2 G9,8 z9,9 w4,5
+10X13 dn5 dw4 g8,7 M3,4 p2,2 z6,6 p3,3 p8,8 w4,5
+10X13 dn5 de4 dw9 ds8 g8,7 M3,4 p2,2 z6,6 p3,3 p8,8 w4,5 h9,8 m10,10
+18X23 dn5 de4 dw9 ds8 g8,7 M3,4 p2,2 z6,6 p3,3 p8,8 w4,5 m10,10
